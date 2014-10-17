@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hmz:home|Door43 (hmz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hmz|d43-hmz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hmz/archive/master.zip|d43-hmz.zip]]
+
+**Recent Changes**
+{{changes>ns = hmz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hmz|Ethnologue data]]
+
